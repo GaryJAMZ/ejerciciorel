@@ -82,3 +82,15 @@ body{
     box-shadow: 0 0 20px var(--gencol),
     0 0 60px var(--gencol);
 }
+.boton{
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    top: 10%;
+    transition: 200ms;
+}
+.boton button{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
