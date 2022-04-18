@@ -24,3 +24,5 @@ Acutalizar relog para ver
 
 4 . - Dia en curso (00 - 28, 29, 30, 31 dependiente del mes)
 
+Nota
+Debe funcionar para cualquier año en el futuro.
