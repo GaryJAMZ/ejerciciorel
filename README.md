@@ -1,7 +1,7 @@
 # ejerciciorel
 Un ejercicio para hacer un relog
 
-Una base de ejercicio para trabajar un relog y cuentas regresivas, la rama de reto es la plantilla, la rama de main es mi ejercicio personal
+Una base de ejercicio para trabajar un relog y cuentas regresivas, la rama de main es la plantilla, la rama de reto es mi ejercicio personal
 
 agregar 4 cuentas regresivas
 
